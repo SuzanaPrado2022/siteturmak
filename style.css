@@ -6,7 +6,6 @@
 .cabecalho__imagem {
     width: 135px;
     height: ;
-    display: flex;
 
 }
 
@@ -18,5 +17,5 @@
 
 .cabecalho__menu-item{
     display: inline;
-    
+
 }

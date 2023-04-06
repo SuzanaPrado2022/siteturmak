@@ -1,9 +1,22 @@
-.cabecalho{
+.cabecalho {
     background-color: #824545;
 
 }
-.cabecalho__imagem{
+
+.cabecalho__imagem {
     width: 135px;
     height: ;
+    display: flex;
 
+}
+
+.cabecalho__titulo,
+.cabecalho__menu {
+    display: inline;
+
+}
+
+.cabecalho__menu-item{
+    display: inline;
+    
 }

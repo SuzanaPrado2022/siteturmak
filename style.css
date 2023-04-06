@@ -1,6 +1,9 @@
-header{
+.cabecalho{
     background-color: #824545;
 
-
+}
+.cabecalho__imagem{
+    width: 135px;
+    height: ;
 
 }

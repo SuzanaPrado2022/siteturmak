@@ -1,5 +1,7 @@
 .cabecalho {
+    display: flex;
     background-color: #692d2d;
+    justify-content: space-around;
 
 }
 

@@ -3,7 +3,7 @@
     justify-content: space-around;
     align-items: center;
     background-color: #692d2d;
-    border-radius: 0px 0px 0px 40px;
+    border-radius: 0px 0px 100px 0px;
 }
 
 .cabecalho__imagem {
@@ -25,11 +25,12 @@
 .escola {
     margin: 20px;
     padding: 20px;
-    background-color: rgb(232, 249, 1);
+    background-color: #7E7777;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 40px;
+    color: #421212;
 }
 
 .escola__imagem {

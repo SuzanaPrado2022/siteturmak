@@ -33,6 +33,10 @@
     color: #421212;
 }
 
+.escola__div{
+    margin: 20px; 
+}
+
 .escola__imagem {
     margin: 20px;
     width: 400px;

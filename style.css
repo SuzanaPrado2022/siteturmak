@@ -28,6 +28,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 40px;
 }
 
 .escola__imagem {

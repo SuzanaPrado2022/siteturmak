@@ -3,7 +3,7 @@
     justify-content: space-around;
     align-items: center;
     background-color: #692d2d;
-    border-radius: 0px 0px 100px 0px;
+    border-radius: 0px 0px 120px 0px;
 }
 
 .cabecalho__imagem {
@@ -18,7 +18,7 @@
 .cabecalho__menu-item {
     display: inline;
     margin: 0px 0px 0px 40px;
-    font-size: 24px;
+    font-size: 32px;
     color: #8a8a8a;
 }
 
@@ -40,7 +40,6 @@
 }
 
 .escola__titulo {
-
     text-align: center;
 }
 

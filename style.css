@@ -57,3 +57,10 @@
 .escola__paragrafo {
     text-align: justify;
 }
+
+.estudantes{
+    background-color: #692d2d;
+    border-radius: 40px;
+    margin: 20px;
+    padding: 20px;
+}

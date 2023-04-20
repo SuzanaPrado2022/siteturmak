@@ -1,6 +1,10 @@
-*{
+* {
     margin: 0%;
     padding: 0%;
+}
+
+body {
+    font-family: 'Sono', sans-serif;
 }
 
 .cabecalho {
@@ -38,8 +42,8 @@
     color: #421212;
 }
 
-.escola__div{
-    margin: 20px; 
+.escola__div {
+    margin: 20px;
 }
 
 .escola__imagem {
@@ -51,25 +55,25 @@
 
 .escola__titulo {
     text-align: center;
-    padding: 20px; 
+    padding: 20px;
 }
 
 .escola__paragrafo {
     text-align: justify;
 }
 
-.estudantes{
+.estudantes {
     background-color: #692d2d;
     border-radius: 40px;
     margin: 20px;
     padding: 20px;
 }
 
-.estudantes__div{
+.estudantes__div {
     text-align: center;
 }
 
-.estudantes__div-imagem{
+.estudantes__div-imagem {
     width: 120px;
     height: auto;
 }

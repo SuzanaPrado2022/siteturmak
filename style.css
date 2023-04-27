@@ -71,7 +71,8 @@ body {
     color: #acacac;
     border-radius: 40px;
     margin: 20px;
-    padding: 20px;
+    justify-items: center;
+    gap: 20px
 }
 
 .estudantes__titulo{

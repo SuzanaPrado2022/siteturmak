@@ -64,20 +64,23 @@ body {
 }
 
 .estudantes {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: auto auto;
     background-image: linear-gradient(#692d2d, #7E7777);
     color: #acacac;
     border-radius: 40px;
     margin: 20px;
-    justify-items: center;
-    gap: 60px
 }
 
 .estudantes__titulo{
     text-align: center;
     padding: 20px;
+}
+
+.estudantes__todos {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto auto;
+    justify-items: center;
+    gap: 60px
 }
 
 .estudantes__div {

@@ -96,6 +96,8 @@ body {
 .rodape {
     background-color: #4A4444;
     border-radius: 20px 20px 0px 0px;
+    text-align: center;
+    padding: 40px;
 }
 
 .rodape__imagem {
